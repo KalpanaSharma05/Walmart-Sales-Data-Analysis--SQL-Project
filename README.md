@@ -2,7 +2,7 @@
 
 The main goal of this project is to gain understanding from Walmart's sales data, exploring the various factors that influence sales across different branches.
 
-![Capture Image](https://github.com/KalpanaSharma05/BigBasket-E--Comprehensive-Product-Analytics-for-BigBasket/blob/main/download.PNG)
+![Capture Image](https://github.com/KalpanaSharma05/Walmart-Sales-Data-Analysis--SQL-Project/blob/main/download.png)
 
 ### Key Features of the Project:
 ## 1. Data Wrangling
